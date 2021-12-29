@@ -52,26 +52,26 @@ The basic manual for thai linux's users.
    **แป้นพิมพ์ภาษาไทย**
 1. ค้นหา Mouse/Keyboard Wizard ที่ Findnrun
 
-![](https://github.com/valso-eo/manual-linux-th/blob/master/1.jpg)
+![](1.jpg)
 
 2. เลือก Advanced Configuration
 
-![](https://github.com/valso-eo/manual-linux-th/blob/master/2.jpg)
+![](2.jpg)
 
 3. ปรากฏ XKB Configyration Manger ในกรอบ Main เลือก Layouts
 
-![](https://github.com/valso-eo/manual-linux-th/blob/master/3.jpg)
+![](3.jpg)
 
 4. เลือก และเลือกภาษาไทย
 
-![](https://github.com/valso-eo/manual-linux-th/blob/master/4.jpg)
+![](4.jpg)
 
-![](https://github.com/valso-eo/manual-linux-th/blob/master/5.jpg)
+![](5.jpg)
 
   **การสลับภาษา**
 1. ไปที่ XKB Confuguration Manger ในช่อง Option เลือก Group Shift/Lock behavior
 
-![](https://github.com/valso-eo/manual-linux-th/blob/master/7.jpg)
+![](7.jpg)
 
 2. ปรากฏ Configuration Group Xkb Opion, เลือก grp:ctrl_shift_toglle Ctrl+Shift และ OK
 
