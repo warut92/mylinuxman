@@ -1,4 +1,4 @@
-# manual-linux-th
-The basic manaul for thai linux's users. คู่มือการใช้ระบบปฏิบัติการประเภท linux ฉบับคนใช้งานทั่วไป
+# mylinuxman
+The basic manaul for thai linux's users. คู่มือการใช้ระบบปฏิบัติการประเภท linux 
+โดยส่วนใหญ่จะบันทึกการตั้งค่าต่าง ๆ ที่ใช้อยู่เป็นประจำ
 
-อ่านที่ [Wiki](https://github.com/warut92/manual-linux-th/wiki)
