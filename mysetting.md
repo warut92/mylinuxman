@@ -28,7 +28,7 @@ img {
 ---
 
 ## การติดตั้งฟอนต์ในระบบ
-คือการนำฟอนต์ไปไว้ใน /usr/share/fonts/ truetype/thai/ (ใช้สิทธิ์ root)
+คือการนำฟอนต์ไปไว้ใน /usr/share/fonts/truetype/thai/ (ใช้สิทธิ์ root)
 
 (หากไม่มี dir /thai ก็ให้สร้างมาก่อนด้วย  mkdir)
 
