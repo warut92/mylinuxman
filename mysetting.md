@@ -1,6 +1,6 @@
 <style>
 img {
-  width: 200px
+  width: 200px;
 }
 </style>
 
@@ -110,7 +110,7 @@ img {
 * dwm status bar แบบง่าย [dwm-bar](https://github.com/joestandring/dwm-bar)
 ---
 ### โปรแกรม 2 หน้าจอ
-การตั้งค่า 2 หน้าจอใช้ `randr` จัดการแบบ 
+การตั้งค่า 2 หน้าจอใช้ `arandr` [arandr](https://christian.amsuess.com/tools/arandr/) จัดการแบบ 
 หรือผ่านทาง termianl `xrandr`
 
 ---
