@@ -4,6 +4,7 @@
 
 สารบัญ
 สารบัญ
+- [โปรแกรมที่ใช้บ่อย ๆ](apps.md)
 - [สี่งที่ตั้งค่าบ่อย ๆ](mysetting.md)
 - [puppylinux](puppy.md)
 - [อื่น ๆ](others.md)

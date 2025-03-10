@@ -46,19 +46,6 @@ img {
 
 ---
 
-### โปรแกรมแตกไฟล์ 
-- .rar โปรแกรม [unrar](https://linuxhint.com/extract_rar_files_ubuntu/)
-
-- .zip
-
-        unzip {file name}
-
-- .tar
-
-        tar -xf {file name}
-
----
-
 ### ติตตั้ง wine ด้วย termianl
     sudo apt install wine64
     
@@ -66,25 +53,9 @@ img {
 
 ---
 
-### ติดตั้ง gnome-disk-utility 
-
-    sudo apt-get update -y 
-  
-และ
-  
-    sudo apt-get install -y gnome-disk-utility
-
----
-
 ### terminal ตรวจสอบความร้อนแบต+การทำงานของพัดลม
 
     sensors
-
----
-
-### โปรแกรม [screenkey](https://www.thregr.org/~wavexx/software/screenkey/)
-
-![](https://www.thregr.org/~wavexx/software/screenkey/screenkey.gif)
 
 ---
 
@@ -103,15 +74,6 @@ img {
   คุณสามารถเปลี่ยน option ได้จาก [List of all setxkbmap configuration options (including models/layout/etc)](https://gist.github.com/jatcwang/ae3b7019f219b8cdc6798329108c9aee)
 
  ไฟล์ variant ส่วนหนึ่งของ keyboard ภาษาไทยที่มีอยู่เดิม >> [my-k-layout](https://github.com/warut92/myklayout)
-
----
-
-### [DWM](https://dwm.suckless.org/)
-* dwm status bar แบบง่าย [dwm-bar](https://github.com/joestandring/dwm-bar)
----
-### โปรแกรม 2 หน้าจอ
-การตั้งค่า 2 หน้าจอใช้ `arandr` [arandr](https://christian.amsuess.com/tools/arandr/) จัดการแบบ 
-หรือผ่านทาง termianl `xrandr`
 
 ---
 
