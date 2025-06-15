@@ -1,3 +1,12 @@
+<style>
+  img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 350px;
+  }
+</style>
+
 # การติดตั้งระบบปฏิบัติการ **[Puppy Linux](http://puppylinux.com/)**
 
    **ฟอนต์ภาษาไทย**
@@ -30,4 +39,5 @@
 2. ปรากฏ Configuration Group Xkb Opion, เลือก grp:ctrl_shift_toglle Ctrl+Shift และ OK
 
 ตอนนี้เราสามารถสลับภาษาได้ได้การกด Ctrl+Shift พร้อมกัน
-Rimarko: Mi ankoraux ne povas trovi la manieron por aperigi la lingvo-rimarkilon ekzemple per flago aux mallongigo de la lingvo.
+
+ข้อสังเกต: กระผมยังไม่พบวิธีแสดงสัญลักษณ์แสดงภาษาปัจจุบันของแป้นพิมพ์ เช่น อักษรย่อ, ธงชาติ
