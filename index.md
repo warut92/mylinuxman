@@ -6,7 +6,7 @@
 
 **คู่มือการใช้ระบบปฏิบัติการลินุกซ์ฉบับผู้ใช้ทั่วไปอย่างผม**
 
-<img src="https://cdn.creazilla.com/cliparts/3164872/penguin-clipart-lg.png">
+<img src="img/penguin-clipart-lg.png">
 
 ผมจะรวบรวมโปรแกรมและปัญหาที่พบบ่อย ๆ
 
