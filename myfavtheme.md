@@ -8,3 +8,7 @@
 - [Afterglow-Cursors](https://github.com/yeyushengfan258/Afterglow-Cursors)
 - [Default-optimized](https://github.com/Edsploration/default-optimized)
 - [Font JetBrains](https://www.jetbrains.com/lp/mono/)
+
+## Thai font
+
+`sudo apt install fonts-thai-tlwg`
