@@ -9,6 +9,10 @@
 - [Default-optimized](https://github.com/Edsploration/default-optimized)
 - [Font JetBrains](https://www.jetbrains.com/lp/mono/)
 
+## ไอคอนอื่น ๆ
+
+- [Uniform](https://www.gnome-look.org/p/1012468)
+
 ## Thai font
 
 `sudo apt install fonts-thai-tlwg`
