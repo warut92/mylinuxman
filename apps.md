@@ -1,9 +1,11 @@
+<link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css">
 <style>
 img {
   width: 200px;
 }
 </style>
-# โปรแกรมที่ใช้
+
+# โปรแกรมที่ใช้บ่อย ๆ
 
 ## 🗃️ไฟล์
 ![](https://apps.gnome.org/assets/screenshots/org.gnome.DiskUtility/disks-main.png)
@@ -20,7 +22,7 @@ img {
 ## 🖥️หน้าจอ
 
 ### โปรแกรมตั้งค่าหน้าจอ / ขนาด / 2 หน้าจอ
-![](https://screenshots.debian.net/shrine/screenshot/simage/small-4c17e0cd7565413d000c2bb006629241.png)
+![](https://christian.amsuess.com/tools/arandr/screenshot.png)
 
 การตั้งค่า 2 หน้าจอใช้ `arandr`  จัดการแบบ 
 หรือผ่านทาง termianl `xrandr`

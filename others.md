@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css">
+
 #  โปรแกรมติดตั้งการบูตผ่านยูเอสบีแฟลชไดรฟ์
   * [Rufus](https://rufus.ie/) (สำหรับวินโดวส์)
   * [UNetbootin](http://unetbootin.github.io/linux_download.html)  (สำหรับลินุกซ์และวินโดวส์)

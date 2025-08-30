@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css">
+
 <style>
   img {
   width: 50px;
@@ -11,12 +13,13 @@
 ผมจะรวบรวมโปรแกรมและปัญหาที่พบบ่อย ๆ
 
 สารบัญ
-- [โปรแกรมที่ใช้บ่อย ๆ ](apps.md)
-- [สิ่งที่ตั้งค่าบ่อย ๆ](mysetting.md)
-- [ธีมและไอคอน](myfavtheme.md)
-- [Puppylinux](puppy.md)
-- [รู้จักลินุกซ์ได้อย่างไร](about_me.md)
-- [โปรแกรมอื่น ๆ](others.md)
+1. [โปรแกรมที่ใช้บ่อย ๆ ](apps.md)
+1. [สิ่งที่ตั้งค่าบ่อย ๆ](mysetting.md)
+1. [ธีมและไอคอน](myfavtheme.md)
+1. [Puppylinux](puppy.md)
+1. [รู้จักลินุกซ์ได้อย่างไร](about_me.md)
+1. [โปรแกรมอื่น ๆ](others.md)
+1. [Xfce en Esperanto](traduko_xfce.md) 
 
 
 [2020-04-04]
