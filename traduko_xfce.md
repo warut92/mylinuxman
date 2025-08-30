@@ -1,3 +1,11 @@
+<link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css">
+
+<style>
+  img {
+  width: 100px;
+  }
+</style>
+
 # Traduko de la grafika uzantinterfaco Xfce en Esperanto
 ![https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Xfce_logo.svg/250px-Xfce_logo.svg.png](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Xfce_logo.svg/250px-Xfce_logo.svg.png)
 
@@ -9,6 +17,12 @@ Mi jam komencis traduki la dosieron PO al Esperanto en la jaro 2020 por la proje
 
 Kiam mi kontribuas, mi ĉiam kontrolas la vortaron de [komputeko.net](komputeko.net). Kelkaj vortoj estas tradukitaj malsame, mi do elektas la plej facile kompreneblajn. (Ekzemple: icon == bildsimbolo, ne piktogramo!)
 
+Listo de la aplikaĵoj
+
+Whisker Menu [eo] [th]\
+Exo [eo] [th]\
+Garcon [eo] [th]
+
 ## Jen estas la utilaj ligiloj.
 
 1. [xfce4-whiskermenu-plugin](https://explore.transifex.com/gottcode/xfce4-whiskermenu-plugin/)
@@ -16,3 +30,13 @@ Kiam mi kontribuas, mi ĉiam kontrolas la vortaron de [komputeko.net](komputeko.
 
 ## Mia gviada traduk-vortaro
 Icon >> Bildsimbolo
+
+---
+
+[2025-08-30]
+
+La aliaj grafikaj uzantinterfacoj en Esperanto
+1. Gnome
+2. KDE
+3. MATE
+4. LXQt

@@ -1,8 +1,7 @@
+<link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css">
+
 <style>
   img {
-  border: 1px solid #ddd;
-  border-radius: 4px;
-  padding: 5px;
   width: 350px;
   }
 </style>
