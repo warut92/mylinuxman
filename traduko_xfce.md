@@ -19,11 +19,10 @@ Kiam mi kontribuas, mi ĉiam kontrolas la vortaron de [komputeko.net](komputeko.
 
 Listo de la aplikaĵoj
 
-Whisker Menu [eo] [th]\
 Exo [eo] [th]\
 Garcon [eo] [th]\
 Libxfce4ui [eo] [th]\
-Libxfce4util [eo] [th]\ laboranta
+Libxfce4util [eo] *[th]\
 Libxfce4windowing\
 Thunar\
 Thunar Plugins\
@@ -31,12 +30,13 @@ Thunar-volman\
 Tumbler\
 Xfce Apps\
 Xfce Panel Plugins\
+= Whisker Menu [eo] [th]\
 Xfce4-appfinder\
 Xfce4-panel\
 Xfce4-power-manager\
 Xfce4-session\
 Xfce4-settings\
-Xfconf\
+Xfconf [th]\
 Xfdesktop\
 Xfwm4 
 
