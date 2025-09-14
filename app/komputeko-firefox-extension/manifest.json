@@ -1,0 +1,19 @@
+{
+	"manifest_version": 2,
+	"name": "Komputeko-kromapo",
+	"version": "3.0.3",
+	"default_locale": "th",
+	"browser_specific_settings": {
+	},
+	"permissions": [
+		"menus"
+	],
+	"background": {
+		"scripts": [
+			"background.js"
+		]
+	},
+	"icons": {
+		"48": "images/icon.svg"
+	}
+}

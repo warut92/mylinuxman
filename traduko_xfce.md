@@ -7,7 +7,7 @@
 </style>
 
 # Traduko de la grafika uzantinterfaco Xfce en Esperanto
-![https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Xfce_logo.svg/250px-Xfce_logo.svg.png](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Xfce_logo.svg/250px-Xfce_logo.svg.png)
+![](img/xfce_logo_eo.svg)
 
 [Xfce](https://en.wikipedia.org/wiki/Xfce) aŭ XFCE estas la grafika uzantinterfaco, kiu estas plej malpeza, facile uzebla almenaŭ laŭ mi. (Kreita en 1997, unue de [Olivier Fourdan](https://en.wikipedia.org/wiki/Olivier_Fourdan)) Ĝi estas rapida por malnovaj komputilo, almenaŭ por tiu, kiun mi havas! (mi diris denove :-p)
 
@@ -19,10 +19,10 @@ Kiam mi kontribuas, mi ĉiam kontrolas la vortaron de [komputeko.net](komputeko.
 
 Listo de la aplikaĵoj
 
-Exo [eo] [th]\
-Garcon [eo] [th]\
-Libxfce4ui [eo] [th]\
-Libxfce4util [eo] *[th]\
+Exo [[EO]](https://app.transifex.com/xfce/exo/viewstrings/#eo/master/) [[TH]](https://app.transifex.com/xfce/exo/viewstrings/#th/master/)\
+Garcon [[EO]](https://app.transifex.com/xfce/garcon/viewstrings/#eo/master/) [[TH]](https://app.transifex.com/xfce/garcon/viewstrings/#th/master/)\
+Libxfce4ui [[EO]](https://app.transifex.com/xfce/libxfce4ui/viewstrings/#eo/master/) [[TH]](https://app.transifex.com/xfce/libxfce4ui/viewstrings/#th/master/)\
+Libxfce4util *[[EO]](https://app.transifex.com/xfce/libxfce4util/viewstrings/#eo/master/) [[TH]](https://app.transifex.com/xfce/libxfce4util/viewstrings/#th/master/)\
 Libxfce4windowing\
 Thunar\
 Thunar Plugins\
@@ -30,13 +30,13 @@ Thunar-volman\
 Tumbler\
 Xfce Apps\
 Xfce Panel Plugins\
-= Whisker Menu [eo] [th]\
+= Whisker Menu [[EO]](https://app.transifex.com/gottcode/xfce4-whiskermenu-plugin/viewstrings/#eo/master/) [[TH]](https://app.transifex.com/gottcode/xfce4-whiskermenu-plugin/viewstrings/#th/master/)\
 Xfce4-appfinder\
 Xfce4-panel\
 Xfce4-power-manager\
 Xfce4-session\
 Xfce4-settings\
-Xfconf [th]\
+Xfconf [TH]\
 Xfdesktop\
 Xfwm4 
 
@@ -53,7 +53,8 @@ Icon >> Bildsimbolo\
 GNU General Public License >> Ĝenerala Publika Permesilo de GNU\
 Free Software Foundation >> Fondumo por Libera Programaro\
 preferred >> ŝatata\
-Preset >> Antaŭagordo
+Preset >> Antaŭagordo\
+Manager >> Administrilo
 
 ---
 
@@ -69,5 +70,7 @@ La aliaj grafikaj uzantinterfacoj en Esperanto
 
 ---
 
-citaĵo pri Esperantigo de Xfce 
-[Sur tiu ĉi retejo](https://pliejo.komputeko.net/esperantigataj-programoj-kaj-retejoj) La skribinto diris, ke iu iam aliĝis al la skipo por traduki, sed la jama traduko estas pluraj eraroj kaj nehokeraj. Mi ankaŭ rimarkis ke por "Icon" ie uzas la vorton "piktogramo", kaj ie "bildsimbolo".
+Citaĵo pri Esperantigo de Xfce 
+[Sur tiu ĉi retejo](https://pliejo.komputeko.net/esperantigataj-programoj-kaj-retejoj) La skribinto diris, ke iu iam aliĝis al la skipo por traduki, sed la jama traduko estas pluraj eraroj kaj nehokeraj. Mi ankaŭ rimarkis ke por "Icon" ie uzas la vorton "piktogramo", kaj ie "bildsimbolo". 
+
+En Komputeko "manager" foje estas administrado, administranto, administrilo.
