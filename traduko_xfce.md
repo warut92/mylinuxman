@@ -7,7 +7,7 @@
 </style>
 
 # Traduko de la grafika uzantinterfaco Xfce en Esperanto
-![](img/xfce_logo_eo.svg)
+![emblemo de Xfce kun Esperanta flago](img/xfce_logo_eo.svg)
 
 [Xfce](https://en.wikipedia.org/wiki/Xfce) aŭ XFCE estas la grafika uzantinterfaco, kiu estas plej malpeza, facile uzebla almenaŭ laŭ mi. (Kreita en 1997, unue de [Olivier Fourdan](https://en.wikipedia.org/wiki/Olivier_Fourdan)) Ĝi estas rapida por malnovaj komputilo, almenaŭ por tiu, kiun mi havas! (mi diris denove :-p)
 
@@ -22,11 +22,15 @@ Listo de la aplikaĵoj
 Exo [[EO]](https://app.transifex.com/xfce/exo/viewstrings/#eo/master/) [[TH]](https://app.transifex.com/xfce/exo/viewstrings/#th/master/)\
 Garcon [[EO]](https://app.transifex.com/xfce/garcon/viewstrings/#eo/master/) [[TH]](https://app.transifex.com/xfce/garcon/viewstrings/#th/master/)\
 Libxfce4ui [[EO]](https://app.transifex.com/xfce/libxfce4ui/viewstrings/#eo/master/) [[TH]](https://app.transifex.com/xfce/libxfce4ui/viewstrings/#th/master/)\
-Libxfce4util *[[EO]](https://app.transifex.com/xfce/libxfce4util/viewstrings/#eo/master/) [[TH]](https://app.transifex.com/xfce/libxfce4util/viewstrings/#th/master/)\
-Libxfce4windowing\
-Thunar\
+Libxfce4util [[EO]](https://app.transifex.com/xfce/libxfce4util/viewstrings/#eo/master/) [[TH]](https://app.transifex.com/xfce/libxfce4util/viewstrings/#th/master/)\
+Libxfce4windowing [[EO]](https://app.transifex.com/xfce/libxfce4windowing/viewstrings/#eo/master/) [[TH]](https://app.transifex.com/xfce/libxfce4windowing/viewstrings/#th/master/)\
+Thunar [ankoraŭ ne kontrolis]\
 Thunar Plugins\
-Thunar-volman\
+== thunar-archive-plugin [[EO]](https://app.transifex.com/xfce/thunar-plugins/viewstrings/#eo/thunar-archive-plugin/) [[TH]](https://app.transifex.com/xfce/thunar-plugins/viewstrings/#th/thunar-archive-plugin/)\
+== thunar-media-tags-plugin [[EO]](https://app.transifex.com/xfce/thunar-plugins/viewstrings/#eo/thunar-media-tags-plugin/) [[TH]](https://app.transifex.com/xfce/thunar-plugins/viewstrings/#th/thunar-media-tags-plugin/)\
+== thunar-shares-plugin [[EO]](https://app.transifex.com/xfce/thunar-plugins/viewstrings/#eo/thunar-shares-plugin/) [[TH]](https://app.transifex.com/xfce/thunar-plugins/viewstrings/#th/thunar-shares-plugin/)\
+== thunar-vcs-plugin \
+== Thunar-volman\
 Tumbler\
 Xfce Apps\
 Xfce Panel Plugins\
@@ -42,6 +46,8 @@ Xfwm4
 
 Xfce Websites
 
+[25-09-21]
+
 #### Jen estas la utilaj ligiloj.
 
 1. [xfce4-whiskermenu-plugin](https://explore.transifex.com/gottcode/xfce4-whiskermenu-plugin/)
@@ -54,7 +60,9 @@ GNU General Public License >> Ĝenerala Publika Permesilo de GNU\
 Free Software Foundation >> Fondumo por Libera Programaro\
 preferred >> ŝatata\
 Preset >> Antaŭagordo\
-Manager >> Administrilo
+Manager >> Administrilo\
+Share >> kunhavigi\
+return >> reveni
 
 ---
 
@@ -71,6 +79,8 @@ La aliaj grafikaj uzantinterfacoj en Esperanto
 ---
 
 Citaĵo pri Esperantigo de Xfce 
-[Sur tiu ĉi retejo](https://pliejo.komputeko.net/esperantigataj-programoj-kaj-retejoj) La skribinto diris, ke iu iam aliĝis al la skipo por traduki, sed la jama traduko estas pluraj eraroj kaj nehokeraj. Mi ankaŭ rimarkis ke por "Icon" ie uzas la vorton "piktogramo", kaj ie "bildsimbolo". 
+[Sur tiu ĉi retejo](https://pliejo.komputeko.net/esperantigataj-programoj-kaj-retejoj) La skribinto diris, ke 
+> iu iam aliĝis al la skipo por traduki, sed la jama traduko estas pluraj eraroj kaj nehokeraj. 
+Mi ankaŭ rimarkis ke por "Icon" ie uzas la vorton "piktogramo", kaj ie "bildsimbolo". 
 
 En Komputeko "manager" foje estas administrado, administranto, administrilo.
