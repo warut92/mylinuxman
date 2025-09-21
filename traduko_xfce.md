@@ -13,7 +13,7 @@
 
 La projekto traduki tekstojn en Esperanton jam komencis en la jaro 2006[?]. Jen estas malnova retejo por Xfce en Esperanto [http://sylvano.esperanto.free.fr/XFCE/esperantigo.html](https://archive.is/20121225015155/sylvano.esperanto.free.fr/XFCE/esperantigo.html) (la aktuala retejo jam rompita!)
 
-Mi jam komencis traduki la dosieron PO al Esperanto en la jaro 2020 por la projekto Whisker Menu (Ĝi estas alternativa menulanĉilo uzanta en Xfce). Post la monato mi aliĝis al la skipo de Xfce por Esperanto kaj por mia denaska lingvo "la taja". Tamen mi malrapide kontribuas.
+Mi jam komencis traduki la dosieron PO al Esperanto en la jaro 2020 por la projekto Whisker Menu (Ĝi estas alternativa menulanĉilo uzanta en Xfce). Post la monato mi aliĝis al la skipo de Xfce por Esperanto kaj por mia denaska lingvo "la taja". Tamen mi malrapide kontribuas. Tiel mi ĵus finis la tradukon de Whisker Menu en 2025 por ambaŭaj lingvoj. :P
 
 Kiam mi kontribuas, mi ĉiam kontrolas la vortaron de [komputeko.net](komputeko.net). Kelkaj vortoj estas tradukitaj malsame, mi do elektas la plej facile kompreneblajn. (Ekzemple: icon == bildsimbolo, ne piktogramo!)
 
@@ -29,12 +29,61 @@ Thunar Plugins\
 == thunar-archive-plugin [[EO]](https://app.transifex.com/xfce/thunar-plugins/viewstrings/#eo/thunar-archive-plugin/) [[TH]](https://app.transifex.com/xfce/thunar-plugins/viewstrings/#th/thunar-archive-plugin/)\
 == thunar-media-tags-plugin [[EO]](https://app.transifex.com/xfce/thunar-plugins/viewstrings/#eo/thunar-media-tags-plugin/) [[TH]](https://app.transifex.com/xfce/thunar-plugins/viewstrings/#th/thunar-media-tags-plugin/)\
 == thunar-shares-plugin [[EO]](https://app.transifex.com/xfce/thunar-plugins/viewstrings/#eo/thunar-shares-plugin/) [[TH]](https://app.transifex.com/xfce/thunar-plugins/viewstrings/#th/thunar-shares-plugin/)\
-== thunar-vcs-plugin \
-== Thunar-volman\
-Tumbler\
+== thunar-vcs-plugin *[[EO]](https://app.transifex.com/xfce/thunar-plugins/viewstrings/#eo/thunar-vcs-plugin/) *[[TH]](https://app.transifex.com/xfce/thunar-plugins/viewstrings/#th/thunar-vcs-plugin/)\
+Thunar-volman *[[EO]](https://app.transifex.com/xfce/thunar-volman/viewstrings/#eo/master/) *+[[TH]](https://app.transifex.com/xfce/thunar-volman/viewstrings/#th/master/)\
+Tumbler [[EO]](https://app.transifex.com/xfce/tumbler/viewstrings/#eo/master/) *+[[TH]](https://app.transifex.com/xfce/tumbler/viewstrings/#th/master/)\
 Xfce Apps\
+== catfish\
+== gigolo\
+== mousepad\
+== orage\
+== parole\
+== ristretto\
+== xfburn\
+== xfce4-dict\
+== xfce4-mixer\
+== xfce4-notifyd\
+== xfce4-panel-profiles\
+== xfce4-screensaver\
+== xfce4-screenshooter\
+== xfce4-taskmanager\
+== xfce4-terminal\
+== xfce4-volumed-pulse\
+== xfdashboard\
+== xfmpc\
 Xfce Panel Plugins\
-= Whisker Menu [[EO]](https://app.transifex.com/gottcode/xfce4-whiskermenu-plugin/viewstrings/#eo/master/) [[TH]](https://app.transifex.com/gottcode/xfce4-whiskermenu-plugin/viewstrings/#th/master/)\
+== xfce4-battery-plugin\
+== xfce4-calculator-plugin\
+== xfce4-clipman-plugin\
+== xfce4-cpufreq-plugin\
+== xfce4-cpugraph-plugin\
+== xfce4-diskperf-plugin\
+== xfce4-docklike-plugin\
+== xfce4-eyes-plugin\
+== xfce4-fsguard-plugin\
+== xfce4-generic-slider\
+== xfce4-genmon-plugin\
+== xfce4-indicator-plugin\
+== xfce4-mailwatch-plugin\
+== xfce4-mount-plugin\
+== xfce4-mpc-plugin\
+== xfce4-netload-plugin\
+== xfce4-notes-plugin\
+== xfce4-places-plugin\
+== xfce4-pulseaudio-plugin\
+== xfce4-sample-plugin\
+== xfce4-sensors-plugin\
+== xfce4-smartbookmark-plugin\
+== xfce4-stopwatch-plugin\
+== xfce4-systemload-plugin\
+== xfce4-time-out-plugin\
+== xfce4-timer-plugin\
+== xfce4-verve-plugin\
+== xfce4-wavelan-plugin\
+== xfce4-weather-plugin\
+== xfce4-whiskermenu-plugin [[EO]](https://app.transifex.com/gottcode/xfce4-whiskermenu-plugin/viewstrings/#eo/master/) [[TH]](https://app.transifex.com/gottcode/xfce4-whiskermenu-plugin/viewstrings/#th/master/)\
+== xfce4-windowck-plugin\
+== xfce4-xkb-plugin \
 Xfce4-appfinder\
 Xfce4-panel\
 Xfce4-power-manager\
@@ -62,7 +111,8 @@ preferred >> ŝatata\
 Preset >> Antaŭagordo\
 Manager >> Administrilo\
 Share >> kunhavigi\
-return >> reveni
+return >> reveni\
+thumbnailer >> bildetkreilo
 
 ---
 
