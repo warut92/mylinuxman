@@ -112,8 +112,9 @@ Preset >> Antaŭagordo\
 Manager >> Administrilo\
 Share >> kunhavigi\
 return >> reveni\
-thumbnailer >> bildetkreilo
-
+thumbnailer >> bildetkreilo\
+illegal:malpermesita\
+tile:kaheligi
 ---
 
 [2025-08-30]
