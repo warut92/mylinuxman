@@ -38,7 +38,7 @@ Xfce Panel Plugins\
 Xfce4-appfinder\
 Xfce4-panel\
 Xfce4-power-manager\
-Xfce4-session\
+Xfce4-session *[[EO]](https://app.transifex.com/xfce4/xfce4-session/viewstrings/#eo/master/) [[TH]](https://app.transifex.com/xfce4/xfce4-session/viewstrings/#th/master/)\
 Xfce4-settings\
 Xfconf [TH]\
 Xfdesktop\
