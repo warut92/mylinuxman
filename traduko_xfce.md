@@ -33,7 +33,7 @@ Thunar Plugins\
 Thunar-volman *[[EO]](https://app.transifex.com/xfce/thunar-volman/viewstrings/#eo/master/) *+[[TH]](https://app.transifex.com/xfce/thunar-volman/viewstrings/#th/master/)\
 Tumbler [[EO]](https://app.transifex.com/xfce/tumbler/viewstrings/#eo/master/) *+[[TH]](https://app.transifex.com/xfce/tumbler/viewstrings/#th/master/)\
 Xfce Apps\
-== catfish\
+== catfish [[EO]](https://app.transifex.com/xfce/xfce-apps/viewstrings/#eo/catfish/) [[TH]](https://app.transifex.com/xfce/xfce-apps/viewstrings/#th/catfish/)\
 == gigolo\
 == mousepad\
 == orage\
