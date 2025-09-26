@@ -30,10 +30,10 @@ Thunar Plugins\
 == thunar-media-tags-plugin [[EO]](https://app.transifex.com/xfce/thunar-plugins/viewstrings/#eo/thunar-media-tags-plugin/) [[TH]](https://app.transifex.com/xfce/thunar-plugins/viewstrings/#th/thunar-media-tags-plugin/)\
 == thunar-shares-plugin [[EO]](https://app.transifex.com/xfce/thunar-plugins/viewstrings/#eo/thunar-shares-plugin/) [[TH]](https://app.transifex.com/xfce/thunar-plugins/viewstrings/#th/thunar-shares-plugin/)\
 == thunar-vcs-plugin *[[EO]](https://app.transifex.com/xfce/thunar-plugins/viewstrings/#eo/thunar-vcs-plugin/) *[[TH]](https://app.transifex.com/xfce/thunar-plugins/viewstrings/#th/thunar-vcs-plugin/)\
-Thunar-volman *[[EO]](https://app.transifex.com/xfce/thunar-volman/viewstrings/#eo/master/) *+[[TH]](https://app.transifex.com/xfce/thunar-volman/viewstrings/#th/master/)\
-Tumbler [[EO]](https://app.transifex.com/xfce/tumbler/viewstrings/#eo/master/) *+[[TH]](https://app.transifex.com/xfce/tumbler/viewstrings/#th/master/)\
+Thunar-volman *[[EO]](https://app.transifex.com/xfce/thunar-volman/viewstrings/#eo/master/) [[TH]](https://app.transifex.com/xfce/thunar-volman/viewstrings/#th/master/)\
+Tumbler [[EO]](https://app.transifex.com/xfce/tumbler/viewstrings/#eo/master/) [[TH]](https://app.transifex.com/xfce/tumbler/viewstrings/#th/master/)\
 Xfce Apps\
-== catfish [[EO]](https://app.transifex.com/xfce/xfce-apps/viewstrings/#eo/catfish/) [[TH]](https://app.transifex.com/xfce/xfce-apps/viewstrings/#th/catfish/)\
+== catfish *[[EO]](https://app.transifex.com/xfce/xfce-apps/viewstrings/#eo/catfish/) [[TH]](https://app.transifex.com/xfce/xfce-apps/viewstrings/#th/catfish/)\
 == gigolo\
 == mousepad\
 == orage\
@@ -96,6 +96,11 @@ Xfwm4
 Xfce Websites
 
 [25-09-21]
+
+#### vortlisto de malnovaj vortoj al la novaj vortoj.
+piktogramo >> bildsimbolo
+vidaspekto >> aspekto
+dimensioj >> grando
 
 #### Jen estas la utilaj ligiloj.
 
