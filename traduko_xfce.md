@@ -95,17 +95,13 @@ Xfwm4
 
 Xfce Websites
 
+(entute 71 aplikaĵoj!!)
+
 [25-09-21]
 
-#### vortlisto de malnovaj vortoj al la novaj vortoj.
-piktogramo >> bildsimbolo
-vidaspekto >> aspekto
-dimensioj >> grando
+#### Jen estas retejo de deponejo Xfce
 
-#### Jen estas la utilaj ligiloj.
-
-1. [xfce4-whiskermenu-plugin](https://explore.transifex.com/gottcode/xfce4-whiskermenu-plugin/)
-2. [https://gitlab.xfce.org](https://gitlab.xfce.org/explore/groups?sort=name_desc) (vidu la dosierojn PO)
+[https://gitlab.xfce.org](https://gitlab.xfce.org/explore/groups?sort=name_desc) (vidu la dosierojn PO)
 
 #### Mia gviada traduk-vortaro
 
@@ -118,8 +114,8 @@ Manager >> Administrilo\
 Share >> kunhavigi\
 return >> reveni\
 thumbnailer >> bildetkreilo\
-illegal:malpermesita\
-tile:kaheligi
+illegal >> malpermesita\
+tile >> kaheligi
 ---
 
 [2025-08-30]
@@ -137,6 +133,13 @@ La aliaj grafikaj uzantinterfacoj en Esperanto
 Citaĵo pri Esperantigo de Xfce 
 [Sur tiu ĉi retejo](https://pliejo.komputeko.net/esperantigataj-programoj-kaj-retejoj) La skribinto diris, ke 
 > iu iam aliĝis al la skipo por traduki, sed la jama traduko estas pluraj eraroj kaj nehokeraj. 
+
 Mi ankaŭ rimarkis ke por "Icon" ie uzas la vorton "piktogramo", kaj ie "bildsimbolo". 
 
 En Komputeko "manager" foje estas administrado, administranto, administrilo.
+
+#### vortlisto de malnovaj vortoj al la novaj vortoj.
+piktogramo >> bildsimbolo\
+vidaspekto >> aspekto\
+dimensioj >> grando\
+
