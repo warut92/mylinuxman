@@ -19,21 +19,21 @@ Kiam mi kontribuas, mi ĉiam kontrolas la vortaron de [komputeko.net](komputeko.
 
 Listo de la aplikaĵoj
 
-Exo [[EO]](https://app.transifex.com/xfce/exo/viewstrings/#eo/master/) [[TH]](https://app.transifex.com/xfce/exo/viewstrings/#th/master/)\
-Garcon [[EO]](https://app.transifex.com/xfce/garcon/viewstrings/#eo/master/) [[TH]](https://app.transifex.com/xfce/garcon/viewstrings/#th/master/)\
-Libxfce4ui [[EO]](https://app.transifex.com/xfce/libxfce4ui/viewstrings/#eo/master/) [[TH]](https://app.transifex.com/xfce/libxfce4ui/viewstrings/#th/master/)\
-Libxfce4util [[EO]](https://app.transifex.com/xfce/libxfce4util/viewstrings/#eo/master/) [[TH]](https://app.transifex.com/xfce/libxfce4util/viewstrings/#th/master/)\
-Libxfce4windowing [[EO]](https://app.transifex.com/xfce/libxfce4windowing/viewstrings/#eo/master/) [[TH]](https://app.transifex.com/xfce/libxfce4windowing/viewstrings/#th/master/)\
-Thunar [ankoraŭ ne kontrolis]\
-Thunar Plugins\
-== thunar-archive-plugin [[EO]](https://app.transifex.com/xfce/thunar-plugins/viewstrings/#eo/thunar-archive-plugin/) [[TH]](https://app.transifex.com/xfce/thunar-plugins/viewstrings/#th/thunar-archive-plugin/)\
-== thunar-media-tags-plugin [[EO]](https://app.transifex.com/xfce/thunar-plugins/viewstrings/#eo/thunar-media-tags-plugin/) [[TH]](https://app.transifex.com/xfce/thunar-plugins/viewstrings/#th/thunar-media-tags-plugin/)\
-== thunar-shares-plugin [[EO]](https://app.transifex.com/xfce/thunar-plugins/viewstrings/#eo/thunar-shares-plugin/) [[TH]](https://app.transifex.com/xfce/thunar-plugins/viewstrings/#th/thunar-shares-plugin/)\
-== thunar-vcs-plugin *[[EO]](https://app.transifex.com/xfce/thunar-plugins/viewstrings/#eo/thunar-vcs-plugin/) *[[TH]](https://app.transifex.com/xfce/thunar-plugins/viewstrings/#th/thunar-vcs-plugin/)\
-Thunar-volman [[EO]](https://app.transifex.com/xfce/thunar-volman/viewstrings/#eo/master/) [[TH]](https://app.transifex.com/xfce/thunar-volman/viewstrings/#th/master/)\
-Tumbler [[EO]](https://app.transifex.com/xfce/tumbler/viewstrings/#eo/master/) [[TH]](https://app.transifex.com/xfce/tumbler/viewstrings/#th/master/)\
-Xfce Apps\
-== catfish *[[EO]](https://app.transifex.com/xfce/xfce-apps/viewstrings/#eo/catfish/) [[TH]](https://app.transifex.com/xfce/xfce-apps/viewstrings/#th/catfish/)\
+exo [[eo]](https://app.transifex.com/xfce/exo/viewstrings/#eo/master/) [[th]](https://app.transifex.com/xfce/exo/viewstrings/#th/master/)\
+garcon [[eo]](https://app.transifex.com/xfce/garcon/viewstrings/#eo/master/) [[th]](https://app.transifex.com/xfce/garcon/viewstrings/#th/master/)\
+libxfce4ui [[eo]](https://app.transifex.com/xfce/libxfce4ui/viewstrings/#eo/master/) [[th]](https://app.transifex.com/xfce/libxfce4ui/viewstrings/#th/master/)\
+libxfce4util [[eo]](https://app.transifex.com/xfce/libxfce4util/viewstrings/#eo/master/) [[th]](https://app.transifex.com/xfce/libxfce4util/viewstrings/#th/master/)\
+libxfce4windowing [[eo]](https://app.transifex.com/xfce/libxfce4windowing/viewstrings/#eo/master/) [[th]](https://app.transifex.com/xfce/libxfce4windowing/viewstrings/#th/master/)\
+thunar [ankoraŭ ne kontrolis]\
+thunar plugins\
+== thunar-archive-plugin [[eo]](https://app.transifex.com/xfce/thunar-plugins/viewstrings/#eo/thunar-archive-plugin/) [[th]](https://app.transifex.com/xfce/thunar-plugins/viewstrings/#th/thunar-archive-plugin/)\
+== thunar-media-tags-plugin [[eo]](https://app.transifex.com/xfce/thunar-plugins/viewstrings/#eo/thunar-media-tags-plugin/) [[th]](https://app.transifex.com/xfce/thunar-plugins/viewstrings/#th/thunar-media-tags-plugin/)\
+== thunar-shares-plugin [[eo]](https://app.transifex.com/xfce/thunar-plugins/viewstrings/#eo/thunar-shares-plugin/) [[th]](https://app.transifex.com/xfce/thunar-plugins/viewstrings/#th/thunar-shares-plugin/)\
+== thunar-vcs-plugin *[[eo]](https://app.transifex.com/xfce/thunar-plugins/viewstrings/#eo/thunar-vcs-plugin/) *[[th]](https://app.transifex.com/xfce/thunar-plugins/viewstrings/#th/thunar-vcs-plugin/)\
+thunar-volman [[eo]](https://app.transifex.com/xfce/thunar-volman/viewstrings/#eo/master/) [[th]](https://app.transifex.com/xfce/thunar-volman/viewstrings/#th/master/)\
+tumbler [[eo]](https://app.transifex.com/xfce/tumbler/viewstrings/#eo/master/) [[th]](https://app.transifex.com/xfce/tumbler/viewstrings/#th/master/)\
+xfce apps\
+== catfish *[[eo]](https://app.transifex.com/xfce/xfce-apps/viewstrings/#eo/catfish/) [[th]](https://app.transifex.com/xfce/xfce-apps/viewstrings/#th/catfish/)\
 == gigolo\
 == mousepad\
 == orage\
@@ -51,7 +51,7 @@ Xfce Apps\
 == xfce4-volumed-pulse\
 == xfdashboard\
 == xfmpc\
-Xfce Panel Plugins\
+xfce panel plugins\
 == xfce4-battery-plugin\
 == xfce4-calculator-plugin\
 == xfce4-clipman-plugin\
@@ -81,21 +81,19 @@ Xfce Panel Plugins\
 == xfce4-verve-plugin\
 == xfce4-wavelan-plugin\
 == xfce4-weather-plugin\
-== xfce4-whiskermenu-plugin [[EO]](https://app.transifex.com/gottcode/xfce4-whiskermenu-plugin/viewstrings/#eo/master/) [[TH]](https://app.transifex.com/gottcode/xfce4-whiskermenu-plugin/viewstrings/#th/master/)\
+== xfce4-whiskermenu-plugin [[eo]](https://app.transifex.com/gottcode/xfce4-whiskermenu-plugin/viewstrings/#eo/master/) [[th]](https://app.transifex.com/gottcode/xfce4-whiskermenu-plugin/viewstrings/#th/master/)\
 == xfce4-windowck-plugin\
 == xfce4-xkb-plugin \
-Xfce4-appfinder\
-Xfce4-panel\
-Xfce4-power-manager\
-Xfce4-session *[[EO]](https://app.transifex.com/xfce4/xfce4-session/viewstrings/#eo/master/) [[TH]](https://app.transifex.com/xfce4/xfce4-session/viewstrings/#th/master/)\
-Xfce4-settings\
-Xfconf [TH]\
-Xfdesktop\
-Xfwm4 
+xfce4-appfinder *[[eo]](https://app.transifex.com/xfce4/xfce4-appfinder/viewstrings/#eo/master/) [[th]](https://app.transifex.com/xfce4/xfce4-appfinder/viewstrings/#th/master/)\ 
+xfce4-panel [331] [36]\
+xfce4-power-manager\
+xfce4-session *[[eo]](https://app.transifex.com/xfce4/xfce4-session/viewstrings/#eo/master/) [[th]](https://app.transifex.com/xfce4/xfce4-session/viewstrings/#th/master/)\
+xfce4-settings\
+xfconf *[[eo]]() [[th]](https://app.transifex.com/xfconf/xfwm4/viewstrings/#th/master/)\
+xfdesktop\
+xfwm4 *[[eo]]() [[th]](https://app.transifex.com/xfce4/xfwm4/viewstrings/#th/master/)\
 
-Xfce Websites
-
-(entute 71 aplikaĵoj!!)
+xfce websites
 
 [25-09-21]
 
@@ -116,7 +114,22 @@ return >> reveni\
 thumbnailer >> bildetkreilo\
 illegal >> malpermesita\
 tile >> kaheligi
+Browse >> Esplori
 
+#### vortlisto de malnovaj vortoj al la novaj vortoj.
+piktogramo >> bildsimbolo\
+vidaspekto >> aspekto\
+dimensioj/grandeco >> grando\
+
+##### Rimarketoj
+Kiam uzi la verbfinaĵon -i aŭ -u
+1. -u >> por ordoni al la komputilo
+2. -i >> por klarigo aŭ menuo
+(Mi nun havas problemon, ĉar mi ne scias, ke estas ordoni kaj klarigi >_<)
+
+#### Iom pri stilo
+1. Single Click >> Ununura alklako
+2. Single Click Timeout >> Tempolimo de ununura alklako
 ---
 
 [2025-08-30]
@@ -139,8 +152,5 @@ Mi ankaŭ rimarkis ke por "Icon" ie uzas la vorton "piktogramo", kaj ie "bildsim
 
 En Komputeko "manager" foje estas administrado, administranto, administrilo.
 
-#### vortlisto de malnovaj vortoj al la novaj vortoj.
-piktogramo >> bildsimbolo\
-vidaspekto >> aspekto\
-dimensioj >> grando\
+
 
