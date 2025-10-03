@@ -12,7 +12,7 @@ document.addEventListener("mouseup", async () => {
     if (sourceDiv.contains(selection.anchorNode)) {
       console.log("Selected text:", selectedText);
 
-      const apiUrl = `https://translate.googleapis.com/translate_a/single?client=gtx&sl=auto&tl=eo&dt=t&q=${encodeURIComponent(selectedText)}`;
+      const apiUrl = `https://translate.googleapis.com/translate_a/single?client=gtx&sl=auto&tl=th&dt=t&q=${encodeURIComponent(selectedText)}`;
       try {
         const response = await fetch(apiUrl);
         const data = await response.json();
@@ -40,7 +40,7 @@ document.addEventListener("mouseup", async () => {
     if (sourceDiv.contains(selection.anchorNode)) {
       console.log("Selected text:", selectedText);
 
-      const apiUrl = `https://translate.googleapis.com/translate_a/single?client=gtx&sl=auto&tl=th&dt=t&q=${encodeURIComponent(selectedText)}`;
+      const apiUrl = `https://translate.googleapis.com/translate_a/single?client=gtx&sl=auto&tl=eo&dt=t&q=${encodeURIComponent(selectedText)}`;
       try {
         const response = await fetch(apiUrl);
         const data = await response.json();

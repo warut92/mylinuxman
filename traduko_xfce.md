@@ -34,10 +34,10 @@ thunar-volman [[eo]](https://app.transifex.com/xfce/thunar-volman/viewstrings/#e
 tumbler [[eo]](https://app.transifex.com/xfce/tumbler/viewstrings/#eo/master/) [[th]](https://app.transifex.com/xfce/tumbler/viewstrings/#th/master/)\
 xfce apps\
 == catfish *[[eo]](https://app.transifex.com/xfce/xfce-apps/viewstrings/#eo/catfish/) [[th]](https://app.transifex.com/xfce/xfce-apps/viewstrings/#th/catfish/)\
-== gigolo\
-== mousepad\
-== orage\
-== parole\
+== gigolo *[[eo]](https://app.transifex.com/xfce/xfce-apps/viewstrings/#eo/gigolo/) [[th]](https://app.transifex.com/xfce/xfce-apps/viewstrings/#th/gigolo)\
+== mousepad *[[eo]](https://app.transifex.com/xfce/xfce-apps/viewstrings/#eo/mousepad/) [[th]](https://app.transifex.com/xfce/xfce-apps/viewstrings/#th/mousepad)\
+== orage *[[eo]](https://app.transifex.com/xfce/xfce-apps/viewstrings/#eo/orage/) [[th]](https://app.transifex.com/xfce/xfce-apps/viewstrings/#th/orage)\
+== parole *[[eo]](https://app.transifex.com/xfce/xfce-apps/viewstrings/#eo/parole/) [[th]](https://app.transifex.com/xfce/xfce-apps/viewstrings/#th/parole)\
 == ristretto\
 == xfburn\
 == xfce4-dict\
