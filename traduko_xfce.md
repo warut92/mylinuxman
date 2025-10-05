@@ -38,17 +38,17 @@ xfce apps\
 == mousepad *[[eo]](https://app.transifex.com/xfce/xfce-apps/viewstrings/#eo/mousepad/) [[th]](https://app.transifex.com/xfce/xfce-apps/viewstrings/#th/mousepad)\
 == orage *[[eo]](https://app.transifex.com/xfce/xfce-apps/viewstrings/#eo/orage/) [[th]](https://app.transifex.com/xfce/xfce-apps/viewstrings/#th/orage)\
 == parole *[[eo]](https://app.transifex.com/xfce/xfce-apps/viewstrings/#eo/parole/) [[th]](https://app.transifex.com/xfce/xfce-apps/viewstrings/#th/parole)\
-== ristretto\
-== xfburn\
-== xfce4-dict\
-== xfce4-mixer\
+== ristretto *[[eo]](https://app.transifex.com/xfce/xfce-apps/viewstrings/#eo/ristretto/) [[th]](https://app.transifex.com/xfce/xfce-apps/viewstrings/#th/ristretto/)\
+== xfburn *[[eo]](https://app.transifex.com/xfce/xfce-apps/viewstrings/#eo/xfburn/) [[th]](https://app.transifex.com/xfce/xfce-apps/viewstrings/#th/xfburn/)\
+== xfce4-dict *[[eo]](https://app.transifex.com/xfce/xfce-apps/viewstrings/#eo/xfce4-dict/) [[th]](https://app.transifex.com/xfce/xfce-apps/viewstrings/#th/xfce4-dict/)\
+== xfce4-mixer *[[eo]](https://app.transifex.com/xfce/xfce-apps/viewstrings/#eo/xfce4-mixer/) [[th]](https://app.transifex.com/xfce/xfce-apps/viewstrings/#th/xfce4-mixer/)\
 == xfce4-notifyd\
 == xfce4-panel-profiles\
 == xfce4-screensaver\
 == xfce4-screenshooter\
 == xfce4-taskmanager\
 == xfce4-terminal\
-== xfce4-volumed-pulse\
+== xfce4-volumed-pulse *[[eo]](https://app.transifex.com/xfce/xfce-apps/viewstrings/#eo/xfce4-volumed-pulse/) [[th]](https://app.transifex.com/xfce/xfce-apps/viewstrings/#th/xfce4-volumed-pulse/)\
 == xfdashboard\
 == xfmpc\
 xfce panel plugins\
@@ -152,5 +152,35 @@ Mi ankaŭ rimarkis ke por "Icon" ie uzas la vorton "piktogramo", kaj ie "bildsim
 
 En Komputeko "manager" foje estas administrado, administranto, administrilo.
 
+===
+
+## บันทึกการแปลภาษาไทย
+
+เป็นการต่อยอดจากคุณ theppitak โดยใช้ข้อความแปลเดิมของท่านในการแปลต่อ ซึ่งมาจาก suggestion จาก deleted resource บ้าง จากการเปรียบเทียบการแปลของโปรแกรมอื่นบ้าง ซึ่งท่านแปลไว้ได้อย่างดีแล้ว
+
+## เครื่องมือช่วยเหลือ
+1. การแปลของเดิม
+2. อภิธานศัพท์โอเพนซอร์ส
+
+## ข้อสังเกต
+
+บางคำแปลไม่สอดคล้องกัน เช่น
+
+desktop บางทีใช้ พื้นโต๊ะ บางที่ใช้การทับศัพท์ เดสก์ท็อป
+
+การแปลส่วนใหญ่เป็นการแปลโดยไม่เน้นการทับศัพท์
+
+Synchronize > การปรับให้ตรงกัน
+
+type > บางที่ ชนิด บางที่ รูปแบบ
+
+
+## ไม่แน่ใจ?
+
+Disc images > อิมเมจแผ่น เทียบจาก ISO images > อิมเมจ ISO (xfburn)
+
+Pulse Audio Volume Control > ช่องควบคุมเสียง Pulse Audio (xfce4-mixer)
+
+[2025-10-05]
 
 
