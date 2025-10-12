@@ -1,11 +1,9 @@
 <link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css">
 
 #  โปรแกรมติดตั้งการบูตผ่านยูเอสบีแฟลชไดรฟ์
-  * [Rufus](https://rufus.ie/) (สำหรับวินโดวส์)
-  * [UNetbootin](http://unetbootin.github.io/linux_download.html)  (สำหรับลินุกซ์และวินโดวส์)
+1. [Rufus](https://rufus.ie/) (สำหรับวินโดวส์)
+2. [UNetbootin](http://unetbootin.github.io/linux_download.html)  (สำหรับลินุกซ์และวินโดวส์)
 
 ***
 #  โปรแกรมกู้ไฟล์ต่าง ๆ
-   [TestDisk](https://www.cgsecurity.org/wiki/)
-
-   [การติดตั้งและวิธีการใช้ (ภาษาอังกฤษ)](https://www.tecmint.com/install-testdisk-data-recovery-tool-in-linux/)
+1. [TestDisk](https://www.cgsecurity.org/wiki/) [การติดตั้งและวิธีการใช้ (ภาษาอังกฤษ)](https://www.tecmint.com/install-testdisk-data-recovery-tool-in-linux/)
