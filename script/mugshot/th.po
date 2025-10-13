@@ -64,7 +64,7 @@ msgstr "จับภาพจากกล้อง..."
 
 #: ../data/ui/MugshotWindow.ui.h:8
 msgid "Browse…"
-msgstr "เรียกดู..."
+msgstr "ค้นหา..."
 
 #: ../data/ui/MugshotWindow.ui.h:9 ../mugshot/MugshotWindow.py:567
 msgid "Mugshot"
@@ -203,8 +203,8 @@ msgid ""
 "Mugshot enables users to easily update personal contact information. With "
 "Mugshot, users are able to:"
 msgstr ""
-""Mugshot ช่วยให้ผู้ใช้สามารถอัปเดตข้อมูลติดต่อส่วนบุคคลได้อย่างง่ายดาย และด้วย "
-"Mugshot ผู้ใช้สามารถ:""
+"Mugshot ช่วยให้ผู้ใช้สามารถอัปเดตข้อมูลติดต่อส่วนบุคคลได้อย่างง่ายดาย และด้วย "
+"Mugshot ผู้ใช้สามารถ:"
 
 #: ../data/metainfo/mugshot.appdata.xml.in.h:3
 msgid ""
