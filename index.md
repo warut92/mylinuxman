@@ -21,6 +21,7 @@
 1. [รู้จักลินุกซ์ได้อย่างไร](about_me.md)
 1. [โปรแกรมอื่น ๆ](others.md)
 1. [Xfce en Esperanto](traduko_xfce.md) 
+1. [การติดตั้งแฟ้ม po](./po/thai_po.md) 
 
 
 [2020-04-04]\
