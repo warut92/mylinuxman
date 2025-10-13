@@ -42,13 +42,13 @@ xfce apps\
 == xfburn *[[eo]](https://app.transifex.com/xfce/xfce-apps/viewstrings/#eo/xfburn/) [[th]](https://app.transifex.com/xfce/xfce-apps/viewstrings/#th/xfburn/)\
 == xfce4-dict *[[eo]](https://app.transifex.com/xfce/xfce-apps/viewstrings/#eo/xfce4-dict/) [[th]](https://app.transifex.com/xfce/xfce-apps/viewstrings/#th/xfce4-dict/)\
 == xfce4-mixer *[[eo]](https://app.transifex.com/xfce/xfce-apps/viewstrings/#eo/xfce4-mixer/) [[th]](https://app.transifex.com/xfce/xfce-apps/viewstrings/#th/xfce4-mixer/)\
-== xfce4-notifyd\
-== xfce4-panel-profiles\
-== xfce4-screensaver\
-== xfce4-screenshooter\
-== xfce4-taskmanager\
-== xfce4-terminal\
-== xfce4-volumed-pulse *[[eo]](https://app.transifex.com/xfce/xfce-apps/viewstrings/#eo/xfce4-volumed-pulse/) [[th]](https://app.transifex.com/xfce/xfce-apps/viewstrings/#th/xfce4-volumed-pulse/)\
+== xfce4-notifyd *[[eo]](https://app.transifex.com/xfce/xfce-apps/viewstrings/#eo/xfce4-notifyd/) [[th]](https://app.transifex.com/xfce/xfce-apps/viewstrings/#th/xfce4-notifyd/)\
+== xfce4-panel-profiles *[[eo]](https://app.transifex.com/xfce/xfce-apps/viewstrings/#eo/xfce4-panel-profiles/) [[th]](https://app.transifex.com/xfce/xfce-apps/viewstrings/#th/xfce4-panel-profiles/)\
+== xfce4-screensaver *[[eo]](https://app.transifex.com/xfce/xfce-apps/viewstrings/#eo/xfce4-screensaver/) [[th]](https://app.transifex.com/xfce/xfce-apps/viewstrings/#th/xfce4-screensaver/)\
+== xfce4-screenshooter *[[eo]](https://app.transifex.com/xfce/xfce-apps/viewstrings/#eo/xfce4-screenshooter/) [[th]](https://app.transifex.com/xfce/xfce-apps/viewstrings/#th/xfce4-screenshooter/)\
+== xfce4-taskmanager *[[eo]](https://app.transifex.com/xfce/xfce-apps/viewstrings/#eo/xfce4-taskmanager/) [[th]](https://app.transifex.com/xfce/xfce-apps/viewstrings/#th/xfce4-taskmanager/)\
+== xfce4-terminal *[[eo]](https://app.transifex.com/xfce/xfce-apps/viewstrings/#eo/xfce4-taskmanager/) [[th]](https://app.transifex.com/xfce/xfce-apps/viewstrings/#th/xfce4-taskmanager/)\
+== xfce4-volumed-pulse *[[eo]](https://app.transifex.com/xfce/xfce-apps/viewstrings/#eo/xfce4-terminal/) [[th]](https://app.transifex.com/xfce/xfce-apps/viewstrings/#th/xfce4-terminal/)\
 == xfdashboard\
 == xfmpc\
 xfce panel plugins\
@@ -167,6 +167,7 @@ En Komputeko "manager" foje estas administrado, administranto, administrilo.
 บางคำแปลไม่สอดคล้องกัน เช่น
 
 desktop บางทีใช้ พื้นโต๊ะ บางที่ใช้การทับศัพท์ เดสก์ท็อป
+[**ข้อสังเกต: พื้นโต๊ะ หมายถึง บริเวรหน้าจอที่สามารถสร้างทางลัดต่าง ๆ ได้ แต่ เดสก์ท็อป สิ่งแวดล้อมพื้นโต๊ะ (Desktop Environment) ซึ่งจะประกอบไปด้วยชุดซอฟต์แวร์ต่าง ๆ]
 
 การแปลส่วนใหญ่เป็นการแปลโดยไม่เน้นการทับศัพท์
 
@@ -174,12 +175,24 @@ Synchronize > การปรับให้ตรงกัน
 
 type > บางที่ ชนิด บางที่ รูปแบบ
 
+## รูปแบบการแป
+
+Failed to ... >> ...ไม่สำเร็จ
+
+Unsupported ... >> ไม่รองรับ
+
+## คำที่น่าสนใจ
+ืparse > แจง
+
+file > แฟ้ม
 
 ## ไม่แน่ใจ?
 
 Disc images > อิมเมจแผ่น เทียบจาก ISO images > อิมเมจ ISO (xfburn)
 
 Pulse Audio Volume Control > ช่องควบคุมเสียง Pulse Audio (xfce4-mixer)
+
+
 
 [2025-10-05]
 
