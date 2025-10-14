@@ -50,27 +50,28 @@ xfce apps\
 == xfce4-terminal *[[eo]](https://app.transifex.com/xfce/xfce-apps/viewstrings/#eo/xfce4-taskmanager/) [[th]](https://app.transifex.com/xfce/xfce-apps/viewstrings/#th/xfce4-taskmanager/)\
 == xfce4-volumed-pulse *[[eo]](https://app.transifex.com/xfce/xfce-apps/viewstrings/#eo/xfce4-terminal/) [[th]](https://app.transifex.com/xfce/xfce-apps/viewstrings/#th/xfce4-terminal/)\
 == xfdashboard\
-== xfmpc\
+== xfmpc *[[eo]](https://app.transifex.com/xfce/xfce-apps/viewstrings/#eo/xfmpc) [[th]](https://app.transifex.com/xfce/xfce-apps/viewstrings/#th/xfmpc)\
 xfce panel plugins\
-== xfce4-battery-plugin\
-== xfce4-calculator-plugin\
-== xfce4-clipman-plugin\
-== xfce4-cpufreq-plugin\
-== xfce4-cpugraph-plugin\
-== xfce4-diskperf-plugin\
-== xfce4-docklike-plugin\
-== xfce4-eyes-plugin\
-== xfce4-fsguard-plugin\
-== xfce4-generic-slider\
-== xfce4-genmon-plugin\
-== xfce4-indicator-plugin\
-== xfce4-mailwatch-plugin\
-== xfce4-mount-plugin\
-== xfce4-mpc-plugin\
-== xfce4-netload-plugin\
+== xfce4-battery-plugin [[th]]\
+== xfce4-calculator-plugin [[th]](https://app.transifex.com/xfce/xfce-panel-plugins/translate/viewstrings/#th/xfce4-calculator-plugin/)\
+== xfce4-clipman-plugin [[th]]\
+== xfce4-cpufreq-plugin [[th]]\
+== xfce4-cpugraph-plugin [[th]]\
+== xfce4-datetime-plugin [[th]]\
+== xfce4-diskperf-plugin [[th]]\
+== xfce4-docklike-plugin 37\
+== xfce4-eyes-plugin [[th]]\
+== xfce4-fsguard-plugin [[th]]\
+== xfce4-generic-slider 14\
+== xfce4-genmon-plugin [[th]]\
+== xfce4-indicator-plugin [[th]]\
+== xfce4-mailwatch-plugin [[th]]\
+== xfce4-mount-plugin [[th]]\
+== xfce4-mpc-plugin [[th]]\
+== xfce4-netload-plugin 10\
 == xfce4-notes-plugin\
 == xfce4-places-plugin\
-== xfce4-pulseaudio-plugin\
+== xfce4-pulseaudio-plugin [[th]](https://app.transifex.com/xfce/xfce-panel-plugins/translate/viewstrings/#th/xfce4-pulseaudio-plugin/)\
 == xfce4-sample-plugin\
 == xfce4-sensors-plugin\
 == xfce4-smartbookmark-plugin\
@@ -175,7 +176,7 @@ Synchronize > การปรับให้ตรงกัน
 
 type > บางที่ ชนิด บางที่ รูปแบบ
 
-## รูปแบบการแป
+## รูปแบบการแปล
 
 Failed to ... >> ...ไม่สำเร็จ
 
@@ -185,6 +186,16 @@ Unsupported ... >> ไม่รองรับ
 ืparse > แจง
 
 file > แฟ้ม
+
+reset > คืนกลับ, ล้างค่า 
+
+notifications > การแจ้งเหตุ
+
+minimized > ย่อเก็บ
+
+theme > ชุดตกแต่ง
+
+appearance > รูปลักษณ์
 
 ## ไม่แน่ใจ?
 
