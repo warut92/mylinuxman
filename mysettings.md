@@ -14,9 +14,11 @@ img {
 #### การติดตั้งแป้นพิมพ์ Manoonchai
 
 `wget https://github.com/hiohlan/kiimo/raw/main/output/Manoonchai/Manoonchai_xkb --output-document=Manoonchai_xkb`
+
 `xkbcomp Manoonchai_xkb`
 
 `sudo cp ./Manoonchai_xkb /usr/share/X11/xkb/symbols/`
+
 `setxkbmap -layout 'us,Manoonchai_xkb' -option 'grp:win_space_toggle'`
 
 [web: manoonchai.com](https://manoonchai.com/)\
