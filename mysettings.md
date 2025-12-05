@@ -25,3 +25,40 @@ img {
 คุณสามารถเปลี่ยน option ได้จาก [List of all setxkbmap configuration options (including models/layout/etc)](https://gist.github.com/jatcwang/ae3b7019f219b8cdc6798329108c9aee)
 
  ไฟล์ variant ส่วนหนึ่งของ keyboard ภาษาไทยที่มีอยู่เดิม >> [my-k-layout](https://github.com/warut92/myklayout)
+ 
+#### การติดตั้งภาพพื้นหลังผ่านทางบรรทัดคำสั่ง
+ 
+`feh --no-fehbg --bg-fill ภาพพื้นหลังที่ชอบ.jpg`
+
+#### ขยายขนาดของ url bar firefox
+
+พิมพ์ในช่อง URL
+
+`about:config`
+
+`toolkit.legacyUserProfileCustomizations.stylesheets` เปลี่ยนจาก fasle เป็น true
+
+พิมพ์ในช่อง URL
+
+`about:support`
+ค้นหา "Profile Folder" จากนั้นเปิดโฟลเดอร์แล้วสร้าง
+
+ └── chrome/
+       └── userChrome.css
+       
+ใน userChrome.css ให้ใส่ข้อความ
+
+```
+#urlbar {
+  --urlbar-min-height: 40px !important; /* default is ~32px */
+}
+
+#urlbar-input {
+  font-size: 25px !important;
+}
+
+* {
+  font-size: 25px !important;
+}
+```       
+       

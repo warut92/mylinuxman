@@ -19,59 +19,59 @@ Kiam mi kontribuas, mi ĉiam kontrolas la vortaron de [komputeko.net](komputeko.
 
 Listo de la aplikaĵoj
 
-exo 
-garcon 
-libxfce4ui ++
-libxfce4util 
-libxfce4windowing 
-thunar 
+exo [[eo]](https://app.transifex.com/xfce/exo/viewstrings/#eo/master/) [[th]](https://app.transifex.com/xfce/exo/viewstrings/#th/master/)\
+garcon [[eo]](https://app.transifex.com/xfce/garcon/viewstrings/#eo/master/) [[th]](https://app.transifex.com/xfce/garcon/viewstrings/#th/master/)\
+libxfce4ui [[eo]](https://app.transifex.com/xfce/libxfce4ui/viewstrings/#eo/master/) [[th]](https://app.transifex.com/xfce/libxfce4ui/viewstrings/#th/master/)\
+libxfce4util [[eo]](https://app.transifex.com/xfce/libxfce4util/viewstrings/#eo/master/) [[th]](https://app.transifex.com/xfce/libxfce4util/viewstrings/#th/master/)\
+libxfce4windowing [[eo]](https://app.transifex.com/xfce/libxfce4windowing/viewstrings/#eo/master/) [[th]](https://app.transifex.com/xfce/libxfce4windowing/viewstrings/#th/master/)\
+thunar [ankoraŭ ne kontrolis]\
 thunar plugins\
-== thunar-archive-plugin 
-== thunar-media-tags-plugin 
-== thunar-shares-plugin 
-== thunar-vcs-plugin
-thunar-volman 
-tumbler 
+== thunar-archive-plugin [[eo]](https://app.transifex.com/xfce/thunar-plugins/viewstrings/#eo/thunar-archive-plugin/) [[th]](https://app.transifex.com/xfce/thunar-plugins/viewstrings/#th/thunar-archive-plugin/)\
+== thunar-media-tags-plugin [[eo]](https://app.transifex.com/xfce/thunar-plugins/viewstrings/#eo/thunar-media-tags-plugin/) [[th]](https://app.transifex.com/xfce/thunar-plugins/viewstrings/#th/thunar-media-tags-plugin/)\
+== thunar-shares-plugin [[eo]](https://app.transifex.com/xfce/thunar-plugins/viewstrings/#eo/thunar-shares-plugin/) [[th]](https://app.transifex.com/xfce/thunar-plugins/viewstrings/#th/thunar-shares-plugin/)\
+== thunar-vcs-plugin *[[eo]](https://app.transifex.com/xfce/thunar-plugins/viewstrings/#eo/thunar-vcs-plugin/) *[[th]](https://app.transifex.com/xfce/thunar-plugins/viewstrings/#th/thunar-vcs-plugin/)\
+thunar-volman [[eo]](https://app.transifex.com/xfce/thunar-volman/viewstrings/#eo/master/) [[th]](https://app.transifex.com/xfce/thunar-volman/viewstrings/#th/master/)\
+tumbler [[eo]](https://app.transifex.com/xfce/tumbler/viewstrings/#eo/master/) [[th]](https://app.transifex.com/xfce/tumbler/viewstrings/#th/master/)\
 xfce apps\
-== catfish
-== gigolo
-== mousepad
-== orage ++
-== parole
-== ristretto
-== xfburn
-== xfce4-dict
-== xfce4-mixer
-== xfce4-notifyd
-== xfce4-panel-profiles
-== xfce4-screensaver
-== xfce4-screenshooter
-== xfce4-taskmanager
-== xfce4-terminal
-== xfce4-volumed-pulse
+== catfish *[[eo]](https://app.transifex.com/xfce/xfce-apps/viewstrings/#eo/catfish/) [[th]](https://app.transifex.com/xfce/xfce-apps/viewstrings/#th/catfish/)\
+== gigolo *[[eo]](https://app.transifex.com/xfce/xfce-apps/viewstrings/#eo/gigolo/) [[th]](https://app.transifex.com/xfce/xfce-apps/viewstrings/#th/gigolo)\
+== mousepad *[[eo]](https://app.transifex.com/xfce/xfce-apps/viewstrings/#eo/mousepad/) [[th]](https://app.transifex.com/xfce/xfce-apps/viewstrings/#th/mousepad)\
+== orage *[[eo]](https://app.transifex.com/xfce/xfce-apps/viewstrings/#eo/orage/) [[th]](https://app.transifex.com/xfce/xfce-apps/viewstrings/#th/orage)\
+== parole *[[eo]](https://app.transifex.com/xfce/xfce-apps/viewstrings/#eo/parole/) [[th]](https://app.transifex.com/xfce/xfce-apps/viewstrings/#th/parole)\
+== ristretto *[[eo]](https://app.transifex.com/xfce/xfce-apps/viewstrings/#eo/ristretto/) [[th]](https://app.transifex.com/xfce/xfce-apps/viewstrings/#th/ristretto/)\
+== xfburn *[[eo]](https://app.transifex.com/xfce/xfce-apps/viewstrings/#eo/xfburn/) [[th]](https://app.transifex.com/xfce/xfce-apps/viewstrings/#th/xfburn/)\
+== xfce4-dict *[[eo]](https://app.transifex.com/xfce/xfce-apps/viewstrings/#eo/xfce4-dict/) [[th]](https://app.transifex.com/xfce/xfce-apps/viewstrings/#th/xfce4-dict/)\
+== xfce4-mixer *[[eo]](https://app.transifex.com/xfce/xfce-apps/viewstrings/#eo/xfce4-mixer/) [[th]](https://app.transifex.com/xfce/xfce-apps/viewstrings/#th/xfce4-mixer/)\
+== xfce4-notifyd *[[eo]](https://app.transifex.com/xfce/xfce-apps/viewstrings/#eo/xfce4-notifyd/) [[th]](https://app.transifex.com/xfce/xfce-apps/viewstrings/#th/xfce4-notifyd/)\
+== xfce4-panel-profiles *[[eo]](https://app.transifex.com/xfce/xfce-apps/viewstrings/#eo/xfce4-panel-profiles/) [[th]](https://app.transifex.com/xfce/xfce-apps/viewstrings/#th/xfce4-panel-profiles/)\
+== xfce4-screensaver *[[eo]](https://app.transifex.com/xfce/xfce-apps/viewstrings/#eo/xfce4-screensaver/) [[th]](https://app.transifex.com/xfce/xfce-apps/viewstrings/#th/xfce4-screensaver/)\
+== xfce4-screenshooter *[[eo]](https://app.transifex.com/xfce/xfce-apps/viewstrings/#eo/xfce4-screenshooter/) [[th]](https://app.transifex.com/xfce/xfce-apps/viewstrings/#th/xfce4-screenshooter/)\
+== xfce4-taskmanager *[[eo]](https://app.transifex.com/xfce/xfce-apps/viewstrings/#eo/xfce4-taskmanager/) [[th]](https://app.transifex.com/xfce/xfce-apps/viewstrings/#th/xfce4-taskmanager/)\
+== xfce4-terminal *[[eo]](https://app.transifex.com/xfce/xfce-apps/viewstrings/#eo/xfce4-taskmanager/) [[th]](https://app.transifex.com/xfce/xfce-apps/viewstrings/#th/xfce4-taskmanager/)\
+== xfce4-volumed-pulse *[[eo]](https://app.transifex.com/xfce/xfce-apps/viewstrings/#eo/xfce4-terminal/) [[th]](https://app.transifex.com/xfce/xfce-apps/viewstrings/#th/xfce4-terminal/)\
 == xfdashboard\
-== xfmpc
+== xfmpc *[[eo]](https://app.transifex.com/xfce/xfce-apps/viewstrings/#eo/xfmpc) [[th]](https://app.transifex.com/xfce/xfce-apps/viewstrings/#th/xfmpc)\
 xfce panel plugins\
-== xfce4-battery-plugin 
-== xfce4-calculator-plugin 
-== xfce4-clipman-plugin 
-== xfce4-cpufreq-plugin 
-== xfce4-cpugraph-plugin 
-== xfce4-datetime-plugin 
-== xfce4-diskperf-plugin 
+== xfce4-battery-plugin [[th]]\
+== xfce4-calculator-plugin [[th]](https://app.transifex.com/xfce/xfce-panel-plugins/translate/viewstrings/#th/xfce4-calculator-plugin/)\
+== xfce4-clipman-plugin [[th]]\
+== xfce4-cpufreq-plugin [[th]]\
+== xfce4-cpugraph-plugin [[th]]\
+== xfce4-datetime-plugin [[th]]\
+== xfce4-diskperf-plugin [[th]]\
 == xfce4-docklike-plugin 37\
-== xfce4-eyes-plugin 
-== xfce4-fsguard-plugin 
+== xfce4-eyes-plugin [[th]]\
+== xfce4-fsguard-plugin [[th]]\
 == xfce4-generic-slider 14\
-== xfce4-genmon-plugin 
-== xfce4-indicator-plugin 
-== xfce4-mailwatch-plugin 
-== xfce4-mount-plugin 
-== xfce4-mpc-plugin 
-== xfce4-netload-plugin 
+== xfce4-genmon-plugin [[th]]\
+== xfce4-indicator-plugin [[th]]\
+== xfce4-mailwatch-plugin [[th]]\
+== xfce4-mount-plugin [[th]]\
+== xfce4-mpc-plugin [[th]]\
+== xfce4-netload-plugin 10\
 == xfce4-notes-plugin\
 == xfce4-places-plugin\
-== xfce4-pulseaudio-plugin 
+== xfce4-pulseaudio-plugin [[th]](https://app.transifex.com/xfce/xfce-panel-plugins/translate/viewstrings/#th/xfce4-pulseaudio-plugin/)\
 == xfce4-sample-plugin\
 == xfce4-sensors-plugin\
 == xfce4-smartbookmark-plugin\
@@ -82,17 +82,17 @@ xfce panel plugins\
 == xfce4-verve-plugin\
 == xfce4-wavelan-plugin\
 == xfce4-weather-plugin\
-== xfce4-whiskermenu-plugin 
+== xfce4-whiskermenu-plugin [[eo]](https://app.transifex.com/gottcode/xfce4-whiskermenu-plugin/viewstrings/#eo/master/) [[th]](https://app.transifex.com/gottcode/xfce4-whiskermenu-plugin/viewstrings/#th/master/)\
 == xfce4-windowck-plugin\
 == xfce4-xkb-plugin \
-xfce4-appfinder 
-xfce4-panel 
+xfce4-appfinder *[[eo]](https://app.transifex.com/xfce4/xfce4-appfinder/viewstrings/#eo/master/) [[th]](https://app.transifex.com/xfce4/xfce4-appfinder/viewstrings/#th/master/)\ 
+xfce4-panel [331] [36]\
 xfce4-power-manager\
-xfce4-session
+xfce4-session *[[eo]](https://app.transifex.com/xfce4/xfce4-session/viewstrings/#eo/master/) [[th]](https://app.transifex.com/xfce4/xfce4-session/viewstrings/#th/master/)\
 xfce4-settings\
-xfconf
+xfconf *[[eo]]() [[th]](https://app.transifex.com/xfconf/xfwm4/viewstrings/#th/master/)\
 xfdesktop\
-xfwm4
+xfwm4 *[[eo]]() [[th]](https://app.transifex.com/xfce4/xfwm4/viewstrings/#th/master/)\
 
 xfce websites
 
@@ -164,12 +164,13 @@ En Komputeko "manager" foje estas administrado, administranto, administrilo.
 2. อภิธานศัพท์โอเพนซอร์ส
 
 ## ข้อสังเกต
-การแปลส่วนใหญ่เป็นการแปลโดยไม่เน้นการทับศัพท์
 
 บางคำแปลไม่สอดคล้องกัน เช่น
 
 desktop บางทีใช้ พื้นโต๊ะ บางที่ใช้การทับศัพท์ เดสก์ท็อป
 [**ข้อสังเกต: พื้นโต๊ะ หมายถึง บริเวรหน้าจอที่สามารถสร้างทางลัดต่าง ๆ ได้ แต่ เดสก์ท็อป สิ่งแวดล้อมพื้นโต๊ะ (Desktop Environment) ซึ่งจะประกอบไปด้วยชุดซอฟต์แวร์ต่าง ๆ]
+
+การแปลส่วนใหญ่เป็นการแปลโดยไม่เน้นการทับศัพท์
 
 Synchronize > การปรับให้ตรงกัน
 
@@ -196,11 +197,9 @@ theme > ชุดตกแต่ง
 
 appearance > รูปลักษณ์
 
-event > เหตุการณ์
+thumbnail > ภาพย่อ
 
-user interface > ส่วนติดต่อผู้ใช้
-
-archive > กรุ
+instance > อินสแตนซ์
 
 ## ไม่แน่ใจ?
 
@@ -211,5 +210,5 @@ Pulse Audio Volume Control > ช่องควบคุมเสียง Pulse
 
 
 [2025-10-05]
-
+[2025-12-05]
 
