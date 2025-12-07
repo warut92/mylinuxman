@@ -1,4 +1,5 @@
 <link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css">
+[[หน้าหลัก]](index.md)
 
 #  โปรแกรมติดตั้งการบูตผ่านยูเอสบีแฟลชไดรฟ์
 1. [Rufus](https://rufus.ie/) (สำหรับวินโดวส์)

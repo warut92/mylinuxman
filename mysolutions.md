@@ -5,6 +5,7 @@ img {
   width: 200px;
 }
 </style>
+[[หน้าหลัก]](index.md)
 
 # ปัญหาที่กระผมอาจจะพบบ่อย ๆ
 อาจจะไม่บ่อย แต่ก็ต้องมีบ้าง
@@ -81,3 +82,43 @@ img {
 ---
 ## เทอร์มินอลเบื้องต้น
 [chmod](https://poundxi.com/%E0%B8%AD%E0%B8%98%E0%B8%B4%E0%B8%9A%E0%B8%B2%E0%B8%A2%E0%B8%84%E0%B8%B3%E0%B8%AA%E0%B8%B1%E0%B9%88%E0%B8%87-chmod-%E0%B8%9A%E0%B8%99-linux/)
+
+---
+#### การติดตั้งภาพพื้นหลังผ่านทางบรรทัดคำสั่ง
+ 
+`feh --no-fehbg --bg-fill ภาพพื้นหลังที่ชอบ.jpg`
+
+#### ขยายขนาดของ url bar firefox
+
+พิมพ์ในช่อง URL
+
+`about:config`
+
+`toolkit.legacyUserProfileCustomizations.stylesheets` เปลี่ยนจาก fasle เป็น true
+
+พิมพ์ในช่อง URL
+
+`about:support`
+ค้นหา "Profile Folder" จากนั้นเปิดโฟลเดอร์แล้วสร้าง
+
+ └── chrome/
+ 
+       └── userChrome.css
+       
+ใน userChrome.css ให้ใส่ข้อความ
+
+```
+#urlbar {
+  --urlbar-min-height: 40px !important; /* default is ~32px */
+}
+
+#urlbar-input {
+  font-size: 25px !important;
+}
+
+* {
+  font-size: 25px !important;
+}
+```  
+
+

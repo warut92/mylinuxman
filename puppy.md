@@ -5,6 +5,7 @@
   width: 200px;
   }
 </style>
+[[หน้าหลัก]](index.md)
 
 # การติดตั้งระบบปฏิบัติการ **[Puppy Linux](http://puppylinux.com/)**
 

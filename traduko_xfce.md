@@ -5,6 +5,7 @@
   width: 200px;
   }
 </style>
+[[hejmo]](index.md)
 
 # Traduko de la grafika uzantinterfaco Xfce en Esperanto
 ![emblemo de Xfce kun Esperanta flago](img/xfce_logo_eo.svg)
@@ -152,71 +153,3 @@ Citaĵo pri Esperantigo de Xfce
 Mi ankaŭ rimarkis ke por "Icon" ie uzas la vorton "piktogramo", kaj ie "bildsimbolo". 
 
 En Komputeko "manager" foje estas administrado, administranto, administrilo.
-
-===
-
-## บันทึกการแปลภาษาไทย
-
-เป็นการต่อยอดจากคุณ theppitak โดยใช้ข้อความแปลเดิมของท่านในการแปลต่อ ซึ่งมาจาก suggestion จาก deleted resource บ้าง จากการเปรียบเทียบการแปลของโปรแกรมอื่นบ้าง ซึ่งท่านแปลไว้ได้อย่างดีแล้ว
-
-## เครื่องมือช่วยเหลือ
-1. การแปลของเดิม
-2. อภิธานศัพท์โอเพนซอร์ส
-
-## ข้อสังเกต
-
-บางคำแปลไม่สอดคล้องกัน เช่น
-
-desktop บางทีใช้ พื้นโต๊ะ บางที่ใช้การทับศัพท์ เดสก์ท็อป
-[**ข้อสังเกต: พื้นโต๊ะ หมายถึง บริเวรหน้าจอที่สามารถสร้างทางลัดต่าง ๆ ได้ แต่ เดสก์ท็อป สิ่งแวดล้อมพื้นโต๊ะ (Desktop Environment) ซึ่งจะประกอบไปด้วยชุดซอฟต์แวร์ต่าง ๆ]
-
-การแปลส่วนใหญ่เป็นการแปลโดยไม่เน้นการทับศัพท์
-
-Synchronize > การปรับให้ตรงกัน
-
-type > บางที่ ชนิด บางที่ รูปแบบ
-
-## รูปแบบการแปล
-
-Failed to ... >> ...ไม่สำเร็จ
-
-Unsupported ... >> ไม่รองรับ
-
-## คำที่น่าสนใจ
-parse > แจง
-
-file > แฟ้ม
-
-reset > คืนกลับ, ล้างค่า 
-
-notifications > การแจ้งเหตุ
-
-minimized > ย่อเก็บ
-
-theme > ชุดตกแต่ง
-
-appearance > รูปลักษณ์
-
-thumbnail > ภาพย่อ
-
-instance > อินสแตนซ์
-
-link > จุดเชื่อม
-
-location > ตำแหน่ง
-
-launcher > ตัวเรียกโปรแกรม, ตัวเรียกแอปพลิเคชัน, ปุ่มเรียก
-
-Empty Trash > เทถังขยะ
-
-## ไม่แน่ใจ?
-
-Disc images > อิมเมจแผ่น เทียบจาก ISO images > อิมเมจ ISO (xfburn)
-
-Pulse Audio Volume Control > ช่องควบคุมเสียง Pulse Audio (xfce4-mixer)
-
-
-
-[2025-10-05]
-[2025-12-05]
-

@@ -1,69 +1,112 @@
 #!/bin/bash
-# ===============================================
-# Script: update-xfce-translations.sh
-# Purpose: Fetch latest Xfce translations from GitLab
-#          and install compiled Thai (.th.po) .mo files
-# ===============================================
 
-# === CONFIG ===
 REPOS=(
-    "https://gitlab.xfce.org/xfce/xfce4-panel.git"
-    "https://gitlab.xfce.org/xfce/thunar.git"
-    "https://gitlab.xfce.org/xfce/xfdesktop.git"
-    "https://gitlab.xfce.org/xfce/xfce4-session.git"
-    "https://gitlab.xfce.org/xfce/xfce4-settings.git"
+"xfce/exo"
+"xfce/garcon"
+"xfce/libxfce4ui"
+"xfce/libxfce4util"
+"xfce/libxfce4windowing"
+"xfce/thunar"
+"thunar-plugins/thunar-archive-plugin"
+"thunar-plugins/thunar-media-tags-plugin"
+"thunar-plugins/thunar-shares-plugin"
+"thunar-plugins/thunar-vcs-plugin"
+"xfce/thunar-volman"
+"xfce/tumbler"
+"apps/catfish"
+"apps/gigolo"
+"apps/mousepad"
+"apps/orage"
+"apps/parole"
+"apps/ristretto"
+"apps/xfburn"
+"apps/xfce4-dict"
+"apps/xfce4-mixer"
+"apps/xfce4-notifyd"
+"apps/xfce4-panel-profiles"
+"apps/xfce4-screensaver"
+"apps/xfce4-screenshooter"
+"apps/xfce4-taskmanager"
+"apps/xfce4-terminal"
+"apps/xfce4-volumed-pulse"
+"apps/xfdashboard"
+"apps/xfmpc"
+"panel-plugins/xfce4-battery-plugin"
+"panel-plugins/xfce4-calculator-plugin"
+"panel-plugins/xfce4-clipman-plugin"
+"panel-plugins/xfce4-cpufreq-plugin"
+"panel-plugins/xfce4-cpugraph-plugin"
+"panel-plugins/xfce4-datetime-plugin"
+"panel-plugins/xfce4-diskperf-plugin"
+"panel-plugins/xfce4-docklike-plugin"
+"panel-plugins/xfce4-eyes-plugin"
+"panel-plugins/xfce4-fsguard-plugin"
+"panel-plugins/xfce4-generic-slider"
+"panel-plugins/xfce4-genmon-plugin"
+"panel-plugins/xfce4-indicator-plugin"
+"panel-plugins/xfce4-mailwatch-plugin"
+"panel-plugins/xfce4-mount-plugin"
+"panel-plugins/xfce4-mpc-plugin"
+"panel-plugins/xfce4-netload-plugin"
+"panel-plugins/xfce4-notes-plugin"
+"panel-plugins/xfce4-places-plugin"
+"panel-plugins/xfce4-pulseaudio-plugin"
+"panel-plugins/xfce4-sample-plugin"
+"panel-plugins/xfce4-sensors-plugin"
+"panel-plugins/xfce4-smartbookmark-plugin"
+"panel-plugins/xfce4-stopwatch-plugin"
+"panel-plugins/xfce4-systemload-plugin"
+"panel-plugins/xfce4-time-out-plugin"
+"panel-plugins/xfce4-timer-plugin"
+"panel-plugins/xfce4-verve-plugin"
+"panel-plugins/xfce4-wavelan-plugin"
+"panel-plugins/xfce4-weather-plugin"
+"panel-plugins/xfce4-whiskermenu-plugin"
+"panel-plugins/xfce4-windowck-plugin"
+"panel-plugins/xfce4-xkb-plugin"
+"xfce/xfce4-appfinder"
+"xfce/xfce4-panel"
+"xfce/xfce4-power-manager"
+"xfce/xfce4-session"
+"xfce/xfce4-settings"
+"xfce/xfconf"
+"xfce/xfdesktop"
+"xfce/xfwm4"
 )
 
 INSTALL_DIR="/usr/share/locale"
-LANG_CODE="th"   # Thai language code
+LANG_CODE="th"
 
-# === SCRIPT ===
 set -e
 
-for REPO_URL in "${REPOS[@]}"; do
-    MODULE_NAME=$(basename "$REPO_URL" .git)
+for MODULE in "${REPOS[@]}"; do
+    NAME=$(basename "$MODULE")
+    PO_URL="https://gitlab.xfce.org/$MODULE/-/raw/master/po/${LANG_CODE}.po"
 
     echo "======================================="
-    echo "[*] Processing module: $MODULE_NAME"
-    echo "======================================="
+    echo "[*] Fetching $NAME → $LANG_CODE.po"
+    echo "URL: $PO_URL"
 
-    # Clone or update repo
-    if [ -d "$MODULE_NAME" ]; then
-        echo "[*] Updating $MODULE_NAME..."
-        cd "$MODULE_NAME"
-        git pull
-    else
-        echo "[*] Cloning $MODULE_NAME..."
-        git clone "$REPO_URL"
-        cd "$MODULE_NAME"
-    fi
+    mkdir -p tmp-po
+    PO_FILE="tmp-po/${NAME}_${LANG_CODE}.po"
 
-    # Check if po directory exists
-    if [ ! -d "po" ]; then
-        echo "[!] No 'po' directory in $MODULE_NAME, skipping..."
-        cd ..
+    # download
+    if ! curl -fsSL "$PO_URL" -o "$PO_FILE"; then
+        echo "   [!] No Thai file found for $NAME (skipped)"
         continue
     fi
 
-    cd po
+    # compile
+    MO_FILE="tmp-po/${NAME}_${LANG_CODE}.mo"
+    echo "   [+] Compiling to $MO_FILE"
+    msgfmt "$PO_FILE" -o "$MO_FILE"
 
-    po_file="${LANG_CODE}.po"
-    if [ -f "$po_file" ]; then
-        mo_file="${LANG_CODE}.mo"
-        echo "   [+] Compiling $po_file → $mo_file"
-        msgfmt "$po_file" -o "$mo_file"
+    # install
+    TARGET_DIR="$INSTALL_DIR/$LANG_CODE/LC_MESSAGES"
+    sudo mkdir -p "$TARGET_DIR"
+    sudo cp "$MO_FILE" "$TARGET_DIR/$NAME.mo"
 
-        # Destination path
-        dest_dir="$INSTALL_DIR/$LANG_CODE/LC_MESSAGES"
-        sudo mkdir -p "$dest_dir"
-
-        echo "   [+] Installing $mo_file → $dest_dir/$MODULE_NAME.mo"
-        sudo cp "$mo_file" "$dest_dir/$MODULE_NAME.mo"
-    else
-        echo "   [!] No Thai translation ($po_file) in $MODULE_NAME"
-    fi
-
-    cd ../..  # back to main dir
+    echo "   [+] Installed → $TARGET_DIR/$NAME.mo"
 done
 
 echo ""

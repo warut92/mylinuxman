@@ -5,6 +5,7 @@
   width: 100px;
   }
 </style>
+[[หน้าหลัก]](../index.md)
 
 
 # Thai Po

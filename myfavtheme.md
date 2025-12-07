@@ -1,4 +1,5 @@
 <link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css">
+[[หน้าหลัก]](index.md)
 
 # ธีมและไอคอนที่ชอบ
 
