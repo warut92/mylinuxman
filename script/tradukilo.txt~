@@ -22,9 +22,6 @@ document.addEventListener("mouseup", async () => {
         translatedText = translatedText.toLowerCase();
         translatedText = translatedText.charAt(0).toUpperCase() + translatedText.slice(1);
 
-        // 🔥 แทนที่คำว่า "ไฟล์" → "แฟ้ม"
-        translatedText = translatedText.replaceAll("ไฟล์", "แฟ้ม");
-
         console.log("Final translated text:", translatedText);
         document.getElementById("translated-string").innerHTML = translatedText;
       } catch (error) {
@@ -33,7 +30,6 @@ document.addEventListener("mouseup", async () => {
     }
   }
 });
-
 ===========
 document.addEventListener("mouseup", async () => {
   const selection = window.getSelection();
