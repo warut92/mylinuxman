@@ -65,6 +65,8 @@ intermediate file > ไฟล์ชั่วคราว
 
 Last Modified > เวลาแก้ไข
 
+ features > ความสามารถ
+
 ## ไม่แน่ใจ?
 
 Disc images > อิมเมจแผ่น เทียบจาก ISO images > อิมเมจ ISO (xfburn)
