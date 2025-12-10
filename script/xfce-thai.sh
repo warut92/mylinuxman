@@ -81,7 +81,7 @@ set -e
 
 for MODULE in "${REPOS[@]}"; do
     NAME=$(basename "$MODULE")
-    PO_URL="https://gitlab.xfce.org/$MODULE/-/raw/master/po/${LANG_CODE}.po"
+    PO_URL="https://gitlab.xfce.org/$MODULE/-/raw/main/po/${LANG_CODE}.po"
 
     echo "======================================="
     echo "[*] Fetching $NAME → $LANG_CODE.po"
