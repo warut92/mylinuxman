@@ -4,7 +4,7 @@ Kiel tajpi Esperantajn literojn per la angla klavaranĝo en la Linukso.
 
 Jen estas dosiero xkb por tajpi Esperanton kune kun angla klavaranaĝo. En simpla maniero!
 
-1. git clone <tiu dosiero xkb en tiu ĉi repo>
+1. wget <tiu dosiero xkb en tiu ĉi repo>
 2. sudo cp ./us_eo_xkb /usr/share/X11/xkb/symbols/
 3. setxkbmap -layout 'us_eo_xkb'
 
