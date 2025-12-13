@@ -65,7 +65,9 @@ intermediate file > ไฟล์ชั่วคราว
 
 Last Modified > เวลาแก้ไข
 
- features > ความสามารถ
+features > ความสามารถ
+
+popup menu > เมนูผุดขึ้น 
 
 ## ไม่แน่ใจ?
 

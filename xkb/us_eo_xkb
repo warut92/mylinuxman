@@ -1,0 +1,41 @@
+default partial alphanumeric_keys
+xkb_symbols "eo3" {
+
+    // COPYRIGHT    "MIT"
+    include "us(basic)"
+
+    name[Group1] = "English (US, Esperanto level 3)";
+
+    // Esperanto letters
+    key <AC02> { [ s, S, scircumflex, Scircumflex ] }; // s ŝ
+    key <AC03> { [ d, D, d, D ] };         //
+    key <AC04> { [ f, F, f, F ] };
+    key <AC05> { [ g, G, gcircumflex, Gcircumflex ] };
+    
+    key <AC06> { [ h, H, hcircumflex, Hcircumflex ] }; // h ĥ
+    key <AC07> { [ j, J, jcircumflex, Jcircumflex ] }; // j ĵ
+    key <AC08> { [ k, K, k, K ] };
+
+    key <AD03> { [ e, E, e, E ] };
+    key <AD04> { [ r, R, r, R ] };
+    key <AD05> { [ t, T, t, T ] };
+
+    key <AD06> { [ y, Y, y, Y ] };
+    key <AD07> { [ u, U, ubreve, Ubreve ] };           // u ŭ
+
+    key <AD08> { [ i, I, i, I ] };
+    key <AD09> { [ o, O, o, O ] };
+    key <AD10> { [ p, P, p, P ] };
+
+    key <AD02> { [ w, W, w, W ] }; // 
+
+    key <AD01> { [ q, Q, q, Q ] };
+
+    key <AB03> { [ c, C, ccircumflex, Ccircumflex ] }; // c ĉ
+    key <AB04> { [ v, V, v, V ] };
+    key <AB05> { [ b, B, b, B ] };
+    key <AB06> { [ n, N, n, N ] };
+    key <AB07> { [ m, M, m, M ] };
+    
+    include "level3(lalt_switch)" //ŝangu laŭ via prefero!
+};
