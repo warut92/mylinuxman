@@ -4,6 +4,10 @@
 img {
   width: 200px;
 }
+pre {
+  color: white;
+  background-color: black;
+}
 </style>
 [[หน้าหลัก]](index.md)
 
@@ -101,10 +105,11 @@ img {
 `about:support`
 ค้นหา "Profile Folder" จากนั้นเปิดโฟลเดอร์แล้วสร้าง
 
- └── chrome/
- 
+```
+ └── chrome
        └── userChrome.css
-       
+```
+
 ใน userChrome.css ให้ใส่ข้อความ
 
 ```
