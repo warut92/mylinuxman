@@ -8,6 +8,10 @@
 
 [Github lxde](https://github.com/lxde)
 
+# หลักการ
+พื้นโต๊ะ >> เดสก์ท็อป
+แฟ้ม >> ไฟล์
+
 ## แปลแล้ว
 
 lxappearance
@@ -15,6 +19,12 @@ LXDE GTK+ theme switcher
 
 lxsession
 The classic LXDE session manager
+
+gpicview
+Lightweight image viewer (recovered copy)
+
+lxrandr
+LXDE monitor configuration tool
 
 ============
 
@@ -43,14 +53,6 @@ lxhotkey
 
 lxde-common
 LXDE common configuration files (recovered copy)
-
-gpicview
-Lightweight image viewer (recovered copy)
-
-
-
-lxrandr
-LXDE monitor configuration tool
 
 pcmanfm
 Extremely fast and lightweight file manager
