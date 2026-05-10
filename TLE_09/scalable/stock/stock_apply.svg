@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Sodipodi ("http://www.sodipodi.com/") -->
+
+<svg
+   id="svg1"
+   width="48pt"
+   height="48pt"
+   version="1.1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3" />
+  <path
+     style="fill:#0d3c07;fill-rule:evenodd;stroke:none;stroke-opacity:1;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;"
+     d="M 0.320285 31.81495 C 1.180346 44.14104 11.91046 60.39447 17.93594 59.89324 C 26.79561 59.3498 33.2837 53.55611 43.88038 40.37722 C 50.90651 31.39824 53.17573 27.97478 58.87796 12.85222 C 60.45197 8.531218 54.00782 1.70042 49.12479 8.346686 C 33.65245 29.59952 25.54486 35.45492 22.02664 36.37814 C 17.62595 37.42617 17.28794 24.94363 12.43187 20.11662 C 11.34488 19.03615 -0.487473 20.432 0.320285 31.81495 z "
+     id="path574" />
+  <path
+     style="fill:#2aaf18;fill-rule:evenodd;stroke:none;stroke-opacity:1;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;"
+     d="M 3.401724 32.72672 C 4.901983 40.82515 14.19969 58.12222 18.14005 57.27557 C 22.23993 56.37936 27.19722 52.07201 36.2041 41.88869 C 48.26559 28.4706 52.70291 18.83315 54.95232 15.23799 C 59.8601 7.200503 53.18755 9.462109 47.63525 17.44724 C 43.22912 23.93757 24.8678 47.21614 20.41994 41.93796 C 18.28175 39.30757 14.68377 27.72971 11.44685 24.51217 C 10.72229 23.79195 1.960087 25.13829 3.401724 32.72672 z "
+     id="path584" />
+  <path
+     style="fill:#ffffff;fill-rule:evenodd;stroke:#ffffff;stroke-opacity:1;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;"
+     d="M 5.2313168 31.708186 C 5.8023249 30.480482 7.1137109 30.089182 8.1138791 30.747331 C 9.55218 31.623535 9.5096285 34.042858 8.434164 34.697509 C 7.480143 35.18353 4.8814974 33.485257 5.2313168 31.708186 z "
+     id="path587" />
+  <path
+     style="fill:#208c11;fill-rule:evenodd;stroke:#208c11;stroke-opacity:1;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;"
+     d="M 14.199289 49.537366 C 15.879637 52.333267 22.564056 51.186628 24.234876 49.537367 C 28.168044 45.548186 22.770731 53.749598 17.935944 53.701067 C 14.467114 53.665461 11.627713 45.436204 14.199289 49.537366 z "
+     id="path589" />
+</svg>
